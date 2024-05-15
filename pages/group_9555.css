@@ -1,0 +1,72 @@
+.group-9555 .smmam-021 {
+  background: url('../assets/images/smmam_021.png') 50% / cover no-repeat;
+  margin-left: 1px;
+  width: 388px;
+  height: 62px;
+}
+.group-9555 .programme-de-la-formation {
+  margin: 0 2px 25px 1.7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 1.094;
+  color: #FFFFFF;
+}
+.group-9555 .le-programme-pour-creer-et-propulser-ton-agence-smma-combine-ala-plus-grande-communaut-francophone {
+  margin-bottom: 27px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 1.81;
+  text-transform: lowercase;
+  color: #FFFFFF;
+}
+.group-9555 .vector-1 {
+  background: #ADADAD;
+  margin: 0 5.2px 21px 5.7px;
+  width: 497.5px;
+  height: 1px;
+}
+.group-9555 .heures-de-formation-30-modules-lives-3-coachings-semaine-15-outils-gnration-de-clientle-1000-personnes-engag-es-dans-le-programme-smma-movement {
+  margin-bottom: 32px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 21px;
+  line-height: 1.619;
+  text-transform: lowercase;
+  color: #FFFFFF;
+}
+.group-9555 .rejoindre-le-mouvement {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 29px;
+  line-height: 1.207;
+  color: #046DCF;
+}
+.group-9555 .container {
+  border-radius: 9px;
+  background: #FFFFFF;
+  position: relative;
+  margin-left: 1px;
+  display: flex;
+  padding: 27px 18px;
+  box-sizing: border-box;
+}
+.group-9555 {
+  box-shadow: 1px 3px 10px 0px rgba(0, 0, 0, 0.14);
+  background: #046DCF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 19px 25.3px 21px 25.3px;
+  box-sizing: border-box;
+}
